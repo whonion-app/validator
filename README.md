@@ -1,3 +1,4 @@
+<p style="text-align: center;><img src="https://cdn4.iconfinder.com/data/icons/cryptocurrency-and-blockchain-technology-1/64/network-validation-block-blockchain-technology-512.png"></img></p>
 <h1><span style="color: #000080;">Project's list where I participate as a validator</span></h1>
 <h2 style="text-align: center;"><span style="color: #0000ff;"><span style="color: #339966;"><strong>ACTIVE TESTNETS</strong></span></span></h2>
 <p style="color: #2e6c80;"><strong><span style="color: #333333;">COSMOS SDK:</span></strong></p>
