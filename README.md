@@ -1,5 +1,5 @@
-<h1 style="color: #5e9ca0; text-align: center;"><span style="color: #000080;">Project's list where I participate as a validator</span></h1>
-<h3><span style="color: #0000ff;"><span style="color: #339966;"><strong>ACTIVE TESTNETS</strong></span></span></h3>
+<h1><span style="color: #000080;">Project's list where I participate as a validator</span></h1>
+<h2 style="text-align: center;"><span style="color: #0000ff;"><span style="color: #339966;"><strong>ACTIVE TESTNETS</strong></span></span></h2>
 <p style="color: #2e6c80;"><strong><span style="color: #333333;">COSMOS SDK:</span></strong></p>
 <ul>
 <li><a title="Celestia" href="https://celestia.explorers.guru/validator/celestiavaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8aumdxtu5" target="_blank">Celestia</a></li>
@@ -15,3 +15,4 @@
 <li style="clear: both;">SUI</li>
 <li>Rebus</li>
 </ul>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
