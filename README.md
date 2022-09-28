@@ -1,8 +1,6 @@
-<h1 style="color: #5e9ca0; text-align: left;"><span style="color: #000080;">Project's list where I participate as a validator</span></h1>
-<blockquote>
-<h2><strong><span style="color: #000080;">ACTIVE TESTNETS</span></strong></h2>
-</blockquote>
-<h2 style="color: #2e6c80;"><span style="color: #ff6600;">COSMOS SDK:</span></h2>
+<h1 style="color: #5e9ca0; text-align: center;"><span style="color: #000080;">Project's list where I participate as a validator</span></h1>
+<h3><span style="color: #0000ff;"><span style="color: #339966;"><strong>ACTIVE TESTNETS</strong></span></span></h3>
+<p style="color: #2e6c80;"><strong><span style="color: #333333;">COSMOS SDK:</span></strong></p>
 <ul>
 <li><a title="Celestia" href="https://celestia.explorers.guru/validator/celestiavaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8aumdxtu5" target="_blank">Celestia</a></li>
 <li><a title="DWS" href="https://dws.explorers.guru/validator/dewebvaloper10ehfeamddx9atyq9kll83c9szl522ywfg8jf9l" target="_blank">DWS</a></li>
