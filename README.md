@@ -14,5 +14,6 @@
 <li style="clear: both;">DeFund</li>
 <li style="clear: both;">SUI</li>
 <li>Rebus</li>
+<li>Stride</li>
 </ul>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
