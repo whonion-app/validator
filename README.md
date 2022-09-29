@@ -22,7 +22,7 @@
 </tr>
 </tbody>
 </table>
-<h2 style="color: #2e6c80;">Previous test networks:</h2>
+<h2 style="text-align: center;"><span style="color: #0000ff;">PREVIOUS TESTNETS:</span></h2>
 <table style="height: 219px; width: 1351.35px; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr style="height: 46px;">
