@@ -28,6 +28,14 @@
 </ul>
 </td>
 </tr>
+<tr>
+<td style="width: 64px;"><img src="https://testnet.ollo.zone/images/Artboard%20257_1.svg" alt="" width="64" height="35" /></td>
+<td style="width: 1280px;">
+<ul>
+<li><a title="OLLO" href="https://testnet.ollo.zone/"><strong>OLLO</strong></a></li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <h2 style="text-align: center;"><span style="color: #0000ff;">PREVIOUS TESTNETS:</span></h2>
