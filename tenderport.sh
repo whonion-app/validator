@@ -1,6 +1,6 @@
 #!/bin/bash
 if [ ! $NODE_FOLDER ]; then
-	read -p "TYPE NODE FOLDER: " NODE_FOLDER
+	read -p "TYPE NODE FOLDER(with point): " NODE_FOLDER
 	echo 'export NODE_FOLDER='$NODE_FOLDER >> $HOME/.bash_profile
 fi
 if [ ! $V_PORT ]; then
