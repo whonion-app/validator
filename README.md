@@ -40,7 +40,7 @@
 <td style="width: 64.0469px; height: 68px;"><img src="https://avatars.githubusercontent.com/u/102963696?s=200&amp;v=4" alt="" width="64" height="64" /></td>
 <td style="width: 1280.95px; height: 68px;">
 <ul>
-<li><a title="Empower" href="https://testnet-empower.zenscan.io/validators.php"><strong>Empowerchain</strong></a></li>
+<li><a title="Empower" href="https://empower.explorers.guru/validator/empowervaloper1a9nlpz0cer2cfaqy5z85rvprkxyac4rlsmst0j"><strong>Empowerchain</strong></a></li>
 </ul>
 </td>
 </tr>
