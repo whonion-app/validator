@@ -2,37 +2,53 @@
 <h1><span style="color: #000080;">Project's list where I participate as a validator</span></h1>
 <h2 style="text-align: center;"><span style="color: #0000ff;"><span style="color: #339966;"><strong>ACTIVE TESTNETS</strong></span></span></h2>
 <p style="color: #2e6c80;"><strong><span style="color: #333333;">COSMOS SDK:</span></strong></p>
-<table style="height: 219px; width: 1352px; border-collapse: collapse; border-style: none;">
+<table style="height: 252px; width: 1352px; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr style="height: 46px;">
-<td style="width: 64px; height: 46px;"><img src="https://backend.nodes.guru/assets/a38b56a3-f77b-403f-8850-97ed3b238809" alt="" width="64" height="64" /></td>
-<td style="width: 1280px; height: 46px;">
+<td style="width: 64.0469px; height: 46px;"><img src="https://backend.nodes.guru/assets/a38b56a3-f77b-403f-8850-97ed3b238809" alt="" width="64" height="64" /></td>
+<td style="width: 1280.95px; height: 46px;">
 <ul>
 <li><a href="https://celestia.explorers.guru/validator/celestiavaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8aumdxtu5"><strong>CELESTIA</strong></a></li>
 </ul>
 </td>
 </tr>
 <tr style="height: 46px;">
-<td style="width: 64px; height: 46px;"><img src="https://backend.nodes.guru/assets/f5b8a9eb-b90c-468f-afef-75d6fbf2e9aa" alt="" width="64" height="64" /></td>
-<td style="width: 1280px; height: 46px;">
+<td style="width: 64.0469px; height: 46px;"><img src="https://backend.nodes.guru/assets/f5b8a9eb-b90c-468f-afef-75d6fbf2e9aa" alt="" width="64" height="64" /></td>
+<td style="width: 1280.95px; height: 46px;">
 <ul>
 <li><a href="https://dws.explorers.guru/validator/dewebvaloper10ehfeamddx9atyq9kll83c9szl522ywfg8jf9l"><strong>DWS</strong></a></li>
 </ul>
 </td>
 </tr>
-<tr>
-<td style="width: 64px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.gitbook.com/cdn-cgi/image/width=40,height=40,fit=contain,dpr=1,format=auto/https%3A%2F%2F1923222875-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FzJaYfgKicroAanflp7Hh%252Ficon%252Fg68pMxRWxR30bTqcuuXc%252FNois.jpeg%3Falt%3Dmedia%26token%3Dc5e4feae-5d42-4b33-9755-bddbf22c7597" alt="" width="33" height="40" /></td>
-<td style="width: 1280px;">
+<tr style="height: 46px;">
+<td style="width: 64.0469px; height: 46px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.gitbook.com/cdn-cgi/image/width=40,height=40,fit=contain,dpr=1,format=auto/https%3A%2F%2F1923222875-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FzJaYfgKicroAanflp7Hh%252Ficon%252Fg68pMxRWxR30bTqcuuXc%252FNois.jpeg%3Falt%3Dmedia%26token%3Dc5e4feae-5d42-4b33-9755-bddbf22c7597" alt="" width="33" height="40" /></td>
+<td style="width: 1280.95px; height: 46px;">
 <ul>
 <li><a href="https://testnet.ping.pub/nois/staking/noisvaloper1v5xayfadhn3emtptsyc9nu7zyuyyze9smdg3h0"><strong>NOIS</strong></a></li>
 </ul>
 </td>
 </tr>
-<tr>
-<td style="width: 64px;"><img src="https://testnet.ollo.zone/images/Artboard%20257_1.svg" alt="" width="64" height="35" /></td>
-<td style="width: 1280px;">
+<tr style="height: 46px;">
+<td style="width: 64.0469px; height: 46px;"><img src="https://testnet.ollo.zone/images/Artboard%20257_1.svg" alt="" width="64" height="35" /></td>
+<td style="width: 1280.95px; height: 46px;">
 <ul>
 <li><a title="OLLO" href="https://testnet.ollo.zone/"><strong>OLLO</strong></a></li>
+</ul>
+</td>
+</tr>
+<tr style="height: 68px;">
+<td style="width: 64.0469px; height: 68px;"><img src="https://avatars.githubusercontent.com/u/102963696?s=200&amp;v=4" alt="" width="64" height="64" /></td>
+<td style="width: 1280.95px; height: 68px;">
+<ul>
+<li><a title="Empower" href="https://testnet-empower.zenscan.io/validators.php"><strong>Empowerchain</strong></a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 64.0469px;"><img src="https://avatars.githubusercontent.com/u/112838174?s=200&amp;v=4" alt="Terpnetwork" width="64" height="64" /></td>
+<td style="width: 1280.95px;">
+<ul>
+<li><strong>TerpNetwork</strong></li>
 </ul>
 </td>
 </tr>
