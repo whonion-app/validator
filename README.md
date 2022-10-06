@@ -48,7 +48,7 @@
 <td style="width: 64.0469px;"><img src="https://avatars.githubusercontent.com/u/112838174?s=200&amp;v=4" alt="Terpnetwork" width="64" height="64" /></td>
 <td style="width: 1280.95px;">
 <ul>
-<li><strong>TerpNetwork</strong></li>
+<li><strong><s>TerpNetwork</s></strong></li>
 </ul>
 </td>
 </tr>
