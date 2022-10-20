@@ -29,10 +29,10 @@
 </td>
 </tr>
 <tr style="height: 46px;">
-<td style="width: 64.0469px; height: 46px;"><img src="https://testnet.ollo.zone/images/Artboard%20257_1.svg" alt="" width="64" height="35" /></td>
+<td style="width: 64.0469px; height: 46px;"><img src="https://ollo.explorers.guru/chains/ollo.png" alt="" width="64" height="64" /></td>
 <td style="width: 1280.95px; height: 46px;">
 <ul>
-<li><a title="OLLO" href="https://testnet.ollo.zone/"><strong>OLLO</strong></a></li>
+<li><a title="OLLO" href="https://ollo.explorers.guru/validator/ollovaloper1twzngmmrq3jfkw2pd498d90kynyefnnxeg7zrc" target="_blank"><strong>OLLO</strong></a></li>
 </ul>
 </td>
 </tr>
@@ -41,6 +41,14 @@
 <td style="width: 1280.95px; height: 68px;">
 <ul>
 <li><a title="Empower" href="https://empower.explorers.guru/validator/empowervaloper1a9nlpz0cer2cfaqy5z85rvprkxyac4rlsmst0j"><strong>Empowerchain</strong></a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 64.0469px;"><img src="https://uptick.explorers.guru/chains/uptick.png" alt="" width="64" height="64" /></td>
+<td style="width: 1280.95px;">
+<ul>
+<li><a title="Uptick" href="https://uptick.explorers.guru/validator/uptickvaloper12vy0re6yjmr83wvrr6jp3n648ahmsz0sr6zp5y" target="_blank"><strong>Uptick</strong></a></li>
 </ul>
 </td>
 </tr>
