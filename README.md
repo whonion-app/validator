@@ -52,6 +52,14 @@
 </ul>
 </td>
 </tr>
+<tr>
+<td style="width: 64.0417px;"><img src="https://okp4.explorers.guru/chains/okp4.png" alt="OKP4" width="64" height="49" /></td>
+<td style="width: 1280.96px;">
+<ul>
+<li><a title="OKP4" href="https://okp4.explorers.guru/validator/okp4valoper1twzngmmrq3jfkw2pd498d90kynyefnnxwsj8lp" target="_blank" rel="noopener"><strong>OKP4</strong></a></li>
+</ul>
+</td>
+</tr>
 <tr style="height: 67px;">
 <td style="width: 64.0417px; height: 67px;"><img src="https://avatars.githubusercontent.com/u/112838174?s=200&amp;v=4" alt="Terpnetwork" width="64" height="64" /></td>
 <td style="width: 1280.96px; height: 67px;">
