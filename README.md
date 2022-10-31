@@ -28,14 +28,6 @@
 </ul>
 </td>
 </tr>
-<tr style="height: 46px;">
-<td style="width: 64.0312px; height: 46px;"><img src="https://ollo.explorers.guru/chains/ollo.png" alt="" width="64" height="64" /></td>
-<td style="width: 1280.97px; height: 46px;">
-<ul>
-<li><a title="OLLO" href="https://ollo.explorers.guru/validator/ollovaloper1twzngmmrq3jfkw2pd498d90kynyefnnxeg7zrc" target="_blank"><strong>OLLO</strong></a></li>
-</ul>
-</td>
-</tr>
 <tr style="height: 68px;">
 <td style="width: 64.0312px; height: 68px;"><img src="https://avatars.githubusercontent.com/u/102963696?s=200&amp;v=4" alt="" width="64" height="64" /></td>
 <td style="width: 1280.97px; height: 68px;">
@@ -65,14 +57,6 @@
 <td style="width: 1280.97px; height: 62px;">
 <ul>
 <li><a title="SOURCE Protocol" href="https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1twzngmmrq3jfkw2pd498d90kynyefnnxsxcgk8" target="_blank"><strong>SOURCE Protocol</strong></a></li>
-</ul>
-</td>
-</tr>
-<tr style="height: 67px;">
-<td style="width: 64.0312px; height: 67px;"><img src="https://avatars.githubusercontent.com/u/112838174?s=200&amp;v=4" alt="Terpnetwork" width="64" height="64" /></td>
-<td style="width: 1280.97px; height: 67px;">
-<ul>
-<li><strong><s>TerpNetwork</s></strong></li>
 </ul>
 </td>
 </tr>
@@ -150,6 +134,22 @@
 <td style="width: 1279.35px; height: 18px;">
 <ul>
 <li>Starknet</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 64px;"><img src="https://avatars.githubusercontent.com/u/112838174?s=200&amp;v=4" alt="Terp" width="64" height="64" /></td>
+<td style="width: 1279.35px;">
+<ul>
+<li>TerpNetwork</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 64px;"><img src="https://ollo.explorers.guru/chains/ollo.png" alt="OLLO" width="64" height="64" /></td>
+<td style="width: 1279.35px;">
+<ul>
+<li><a title="OLLO" href="https://ollo.explorers.guru/validator/ollovaloper1twzngmmrq3jfkw2pd498d90kynyefnnxeg7zrc" target="_blank" rel="noopener"><strong>OLLO</strong></a></li>
 </ul>
 </td>
 </tr>
