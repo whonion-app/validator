@@ -60,6 +60,14 @@
 </ul>
 </td>
 </tr>
+<tr>
+<td style="width: 64.0312px;"><img src="https://nibiru.explorers.guru/chains/nibiru.png" alt="NIBIRU" width="64" height="64" /></td>
+<td style="width: 1280.97px;">
+<ul>
+<li><a href="https://nibiru.explorers.guru/validator/nibivaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8au3xlqd3" target="_blank"><strong>NIBIRU</strong></a></li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <h2 style="text-align: center;"><span style="color: #0000ff;">PREVIOUS TESTNETS:</span></h2>
