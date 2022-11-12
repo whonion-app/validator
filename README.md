@@ -68,6 +68,14 @@
 </ul>
 </td>
 </tr>
+<tr>
+<td style="width: 64px;"><img src="https://gitopia.explorers.guru/chains/gitopia.png" alt="Gitopia" width="64" height="64" /></td>
+<td style="width: 1281px;">
+<ul>
+<li><a href="https://gitopia.explorers.guru/validator/gitopiavaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8aue6k9l8" target="_blank" rel="noopener"><strong>GITOPIA</strong></a></li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <h2 style="text-align: left;"><span style="color: #ff6600;">OTHER SDK:</span></h2>
