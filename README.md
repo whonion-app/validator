@@ -2,13 +2,29 @@
 <h1><span style="color: #000080;">Project's list where I participate as a validator</span></h1>
 <h2 style="text-align: center;"><span style="color: #0000ff;"><span style="color: #339966;"><strong>ACTIVE TESTNETS</strong></span></span></h2>
 <p style="color: #2e6c80;"><strong><span style="color: #333333;">COSMOS SDK:</span></strong></p>
-<table style="height: 456px; width: 1352px; border-collapse: collapse; border-style: none;">
+<table style="height: 488px; width: 1345px; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr style="height: 46px;">
 <td style="width: 64px; height: 46px;"><img src="https://backend.nodes.guru/assets/a38b56a3-f77b-403f-8850-97ed3b238809" alt="" width="64" height="64" /></td>
 <td style="width: 1281px; height: 46px;">
 <ul>
 <li><a href="https://celestia.explorers.guru/validator/celestiavaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8aumdxtu5"><strong>CELESTIA</strong></a></li>
+</ul>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 64px; height: 18px;"><img src="https://uptick.explorers.guru/chains/uptick.png" alt="Uptick" width="64" height="64" /></td>
+<td style="width: 1281px; height: 18px;">
+<ul>
+<li><a title="Uptick" href="https://uptick.explorers.guru/validator/uptickvaloper12vy0re6yjmr83wvrr6jp3n648ahmsz0sr6zp5y" target="_blank" rel="noopener"><strong>Uptick</strong></a></li>
+</ul>
+</td>
+</tr>
+<tr style="height: 68px;">
+<td style="width: 64px; height: 68px;"><img src="https://nibiru.explorers.guru/chains/nibiru.png" alt="NIBIRU" width="64" height="64" /></td>
+<td style="width: 1281px; height: 68px;">
+<ul>
+<li><a href="https://nibiru.explorers.guru/validator/nibivaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8au3xlqd3" target="_blank" rel="noopener"><strong>NIBIRU</strong></a></li>
 </ul>
 </td>
 </tr>
@@ -36,22 +52,6 @@
 </ul>
 </td>
 </tr>
-<tr style="height: 67px;">
-<td style="width: 64px; height: 67px;"><img src="https://uptick.explorers.guru/chains/uptick.png" alt="" width="64" height="64" /></td>
-<td style="width: 1281px; height: 67px;">
-<ul>
-<li><a title="Uptick" href="https://uptick.explorers.guru/validator/uptickvaloper12vy0re6yjmr83wvrr6jp3n648ahmsz0sr6zp5y" target="_blank"><strong>Uptick</strong></a></li>
-</ul>
-</td>
-</tr>
-<tr style="height: 53px;">
-<td style="width: 64px; height: 53px;"><img src="https://okp4.explorers.guru/chains/okp4.png" alt="OKP4" width="64" height="49" /></td>
-<td style="width: 1281px; height: 53px;">
-<ul>
-<li><a title="OKP4" href="https://okp4.explorers.guru/validator/okp4valoper1twzngmmrq3jfkw2pd498d90kynyefnnxwsj8lp" target="_blank" rel="noopener"><strong>OKP4</strong></a></li>
-</ul>
-</td>
-</tr>
 <tr style="height: 62px;">
 <td style="width: 64px; height: 62px;"><img src="https://2061232594-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2ufmW7exCclo14ABKCcm%2Fuploads%2FoC43RLB9pbHnkLuk4Imd%2Fsource-logo-S-only.svg?alt=media&amp;token=56741963-b3ff-47e6-a4a2-cbf1ebf69187" alt="Source Protocol" width="64" height="58" /></td>
 <td style="width: 1281px; height: 62px;">
@@ -60,17 +60,9 @@
 </ul>
 </td>
 </tr>
-<tr style="height: 68px;">
-<td style="width: 64px; height: 68px;"><img src="https://nibiru.explorers.guru/chains/nibiru.png" alt="NIBIRU" width="64" height="64" /></td>
-<td style="width: 1281px; height: 68px;">
-<ul>
-<li><a href="https://nibiru.explorers.guru/validator/nibivaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8au3xlqd3" target="_blank"><strong>NIBIRU</strong></a></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="width: 64px;"><img src="https://gitopia.explorers.guru/chains/gitopia.png" alt="Gitopia" width="64" height="64" /></td>
-<td style="width: 1281px;">
+<tr style="height: 67px;">
+<td style="width: 64px; height: 67px;"><img src="https://gitopia.explorers.guru/chains/gitopia.png" alt="Gitopia" width="64" height="64" /></td>
+<td style="width: 1281px; height: 67px;">
 <ul>
 <li><a href="https://gitopia.explorers.guru/validator/gitopiavaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8aue6k9l8" target="_blank" rel="noopener"><strong>GITOPIA</strong></a></li>
 </ul>
@@ -179,6 +171,14 @@
 <td style="width: 1279.35px;">
 <ul>
 <li><a title="OLLO" href="https://ollo.explorers.guru/validator/ollovaloper1twzngmmrq3jfkw2pd498d90kynyefnnxeg7zrc" target="_blank" rel="noopener"><strong>OLLO</strong></a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 64px;"><img src="https://okp4.explorers.guru/chains/okp4.png" alt="OKP4" width="64" height="49" /></td>
+<td style="width: 1279.35px;">
+<ul>
+<li><a title="OKP4" href="https://okp4.explorers.guru/validator/okp4valoper1twzngmmrq3jfkw2pd498d90kynyefnnxwsj8lp" target="_blank" rel="noopener"><strong>OKP4</strong></a></li>
 </ul>
 </td>
 </tr>
