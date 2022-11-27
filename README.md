@@ -1,12 +1,14 @@
+<div align="center">
+<div style="display: fixed; align-items: flex-start;"><img src="https://github-readme-stats.vercel.app/api?username=whonion&amp;show_icons=true&amp;theme=lightowl" align="top" /> <br /><br /><img src="https://github-readme-streak-stats.herokuapp.com?user=whonion&amp;theme=lightowl&amp;date_format=M%20j%5B%2C%20Y%5D" align="top" /> <br /><br /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whonion&amp;layout=compact&amp;theme=lightowl" align="down" /></div>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://distributedledgerinc.com/wp-content/uploads/2019/04/cosmos_logo.png" /></p>
 <h1><span style="color: #000080;">Project's list where I participate as a validator</span></h1>
 <h2 style="text-align: center;"><span style="color: #0000ff;"><span style="color: #339966;"><strong>ACTIVE TESTNETS</strong></span></span></h2>
 <p style="color: #2e6c80;"><strong><span style="color: #333333;">COSMOS SDK:</span></strong></p>
-<table style="height: 488px; width: 1345px; border-collapse: collapse; border-style: none;">
+<table style="height: 488px; width: 1795px; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr style="height: 46px;">
 <td style="width: 64px; height: 46px;"><img src="https://backend.nodes.guru/assets/a38b56a3-f77b-403f-8850-97ed3b238809" alt="" width="64" height="64" /></td>
-<td style="width: 1281px; height: 46px;">
+<td style="width: 1724px; height: 46px;">
 <ul>
 <li><a href="https://celestia.explorers.guru/validator/celestiavaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8aumdxtu5"><strong>CELESTIA</strong></a></li>
 </ul>
@@ -14,7 +16,7 @@
 </tr>
 <tr style="height: 18px;">
 <td style="width: 64px; height: 18px;"><img src="https://uptick.explorers.guru/chains/uptick.png" alt="Uptick" width="64" height="64" /></td>
-<td style="width: 1281px; height: 18px;">
+<td style="width: 1724px; height: 18px;">
 <ul>
 <li><a title="Uptick" href="https://uptick.explorers.guru/validator/uptickvaloper12vy0re6yjmr83wvrr6jp3n648ahmsz0sr6zp5y" target="_blank" rel="noopener"><strong>Uptick</strong></a></li>
 </ul>
@@ -22,7 +24,7 @@
 </tr>
 <tr style="height: 68px;">
 <td style="width: 64px; height: 68px;"><img src="https://nibiru.explorers.guru/chains/nibiru.png" alt="NIBIRU" width="64" height="64" /></td>
-<td style="width: 1281px; height: 68px;">
+<td style="width: 1724px; height: 68px;">
 <ul>
 <li><a href="https://nibiru.explorers.guru/validator/nibivaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8au3xlqd3" target="_blank" rel="noopener"><strong>NIBIRU</strong></a></li>
 </ul>
@@ -30,7 +32,7 @@
 </tr>
 <tr style="height: 46px;">
 <td style="width: 64px; height: 46px;"><img src="https://backend.nodes.guru/assets/f5b8a9eb-b90c-468f-afef-75d6fbf2e9aa" alt="" width="64" height="64" /></td>
-<td style="width: 1281px; height: 46px;">
+<td style="width: 1724px; height: 46px;">
 <ul>
 <li><a href="https://dws.explorers.guru/validator/dewebvaloper10ehfeamddx9atyq9kll83c9szl522ywfg8jf9l"><strong>DWS</strong></a></li>
 </ul>
@@ -38,7 +40,7 @@
 </tr>
 <tr style="height: 46px;">
 <td style="width: 64px; height: 46px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://testnet.ping.pub/logos/nois.svg" alt="" width="64" height="64" /></td>
-<td style="width: 1281px; height: 46px;">
+<td style="width: 1724px; height: 46px;">
 <ul>
 <li><a href="https://testnet.ping.pub/nois/staking/noisvaloper1v5xayfadhn3emtptsyc9nu7zyuyyze9smdg3h0"><strong>NOIS</strong></a></li>
 </ul>
@@ -46,7 +48,7 @@
 </tr>
 <tr style="height: 68px;">
 <td style="width: 64px; height: 68px;"><img src="https://avatars.githubusercontent.com/u/102963696?s=200&amp;v=4" alt="" width="64" height="64" /></td>
-<td style="width: 1281px; height: 68px;">
+<td style="width: 1724px; height: 68px;">
 <ul>
 <li><a title="Empower" href="https://empower.explorers.guru/validator/empowervaloper1a9nlpz0cer2cfaqy5z85rvprkxyac4rlsmst0j"><strong>Empowerchain</strong></a></li>
 </ul>
@@ -54,7 +56,7 @@
 </tr>
 <tr style="height: 62px;">
 <td style="width: 64px; height: 62px;"><img src="https://2061232594-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2ufmW7exCclo14ABKCcm%2Fuploads%2FoC43RLB9pbHnkLuk4Imd%2Fsource-logo-S-only.svg?alt=media&amp;token=56741963-b3ff-47e6-a4a2-cbf1ebf69187" alt="Source Protocol" width="64" height="58" /></td>
-<td style="width: 1281px; height: 62px;">
+<td style="width: 1724px; height: 62px;">
 <ul>
 <li><a title="SOURCE Protocol" href="https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1twzngmmrq3jfkw2pd498d90kynyefnnxsxcgk8" target="_blank"><strong>SOURCE Protocol</strong></a></li>
 </ul>
@@ -62,7 +64,7 @@
 </tr>
 <tr style="height: 67px;">
 <td style="width: 64px; height: 67px;"><img src="https://gitopia.explorers.guru/chains/gitopia.png" alt="Gitopia" width="64" height="64" /></td>
-<td style="width: 1281px; height: 67px;">
+<td style="width: 1724px; height: 67px;">
 <ul>
 <li><a href="https://gitopia.explorers.guru/validator/gitopiavaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8aue6k9l8" target="_blank" rel="noopener"><strong>GITOPIA</strong></a></li>
 </ul>
@@ -71,11 +73,11 @@
 </tbody>
 </table>
 <h2 style="text-align: left;"><span style="color: #ff6600;">OTHER SDK:</span></h2>
-<table style="height: 58px; width: 1351px; border-collapse: collapse; border-style: none;">
+<table style="height: 58px; width: 1791px; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr>
-<td style="width: 125.703px;"><img src="https://icodrops.com/wp-content/uploads/2021/11/MassaLabs_logo.jpeg" alt="MASSA" width="64" height="64" /></td>
-<td style="width: 1218.3px;">
+<td style="width: 121.75px;"><img src="https://icodrops.com/wp-content/uploads/2021/11/MassaLabs_logo.jpeg" alt="MASSA" width="64" height="64" /></td>
+<td style="width: 1662.25px;">
 <ul>
 <li><a title="MASSA" href="https://massa.net/" target="_blank"><strong>MASSA</strong></a></li>
 </ul>
@@ -84,11 +86,11 @@
 </tbody>
 </table>
 <h2 style="text-align: center;"><span style="color: #0000ff;">PREVIOUS TESTNETS:</span></h2>
-<table style="height: 219px; width: 1351.35px; border-collapse: collapse; border-style: none;">
+<table style="height: 219px; width: 1784px; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr style="height: 46px;">
 <td style="width: 64px; height: 46px;"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcryptocurrencyjobs.co%2Fstartups%2Fassets%2Flogos%2Faptos.12cffdf92f7fb4c2ee3e582f92e09e6d03d3cbff3bd7a4a9ce3fd0da3839bb4e.jpeg&amp;f=1&amp;nofb=1&amp;ipt=fc21bd4ee8e1f9c0edc476fbd2043dae863bbd76bf3f6105a031234c54648b4a&amp;ipo=images" alt="" width="64" height="64" /></td>
-<td style="width: 1279.35px; height: 46px;">
+<td style="width: 1713px; height: 46px;">
 <ul>
 <li>APTOS AIT II / AIT III&nbsp;</li>
 </ul>
@@ -96,7 +98,7 @@
 </tr>
 <tr style="height: 46px;">
 <td style="width: 64px; height: 46px;"><img src="https://backend.nodes.guru/assets/6f9f452a-9eb9-446a-a86c-6dc434498360" alt="" width="64" height="64" /></td>
-<td style="width: 1279.35px; height: 46px;">
+<td style="width: 1713px; height: 46px;">
 <ul>
 <li>QuickSilver</li>
 </ul>
@@ -104,7 +106,7 @@
 </tr>
 <tr style="height: 18px;">
 <td style="width: 64px; height: 18px;"><img src="https://backend.nodes.guru/assets/94940479-c6a9-48b1-bfff-1f83545a752b" alt="" width="64" height="64" /></td>
-<td style="width: 1279.35px; height: 18px;">
+<td style="width: 1713px; height: 18px;">
 <ul>
 <li>DeFund</li>
 </ul>
@@ -112,7 +114,7 @@
 </tr>
 <tr style="height: 19px;">
 <td style="width: 64px; height: 19px;"><img src="https://sui.io/img/sui-logo.svg" alt="" width="64" height="37" /></td>
-<td style="width: 1279.35px; height: 19px;">
+<td style="width: 1713px; height: 19px;">
 <ul>
 <li>SUI</li>
 </ul>
@@ -120,7 +122,7 @@
 </tr>
 <tr style="height: 18px;">
 <td style="width: 64px; height: 18px;"><img src="https://backend.nodes.guru/assets/46a7af81-bbd6-40ce-bb44-a925f5eb3561" alt="" width="64" height="73" /></td>
-<td style="width: 1279.35px; height: 18px;">
+<td style="width: 1713px; height: 18px;">
 <ul>
 <li>Archway</li>
 </ul>
@@ -128,7 +130,7 @@
 </tr>
 <tr style="height: 18px;">
 <td style="width: 64px; height: 18px;"><img src="https://backend.nodes.guru/assets/acc16cd8-521e-4083-8172-60865d2eb4c4" alt="" width="64" height="64" /></td>
-<td style="width: 1279.35px; height: 18px;">
+<td style="width: 1713px; height: 18px;">
 <ul>
 <li>Rebus</li>
 </ul>
@@ -136,7 +138,7 @@
 </tr>
 <tr style="height: 18px;">
 <td style="width: 64px; height: 18px;"><img src="https://backend.nodes.guru/assets/ea269c32-59e4-429d-851a-20aff76dd13a" alt="" width="64" height="64" /></td>
-<td style="width: 1279.35px; height: 18px;">
+<td style="width: 1713px; height: 18px;">
 <ul>
 <li>Stride</li>
 </ul>
@@ -144,7 +146,7 @@
 </tr>
 <tr style="height: 18px;">
 <td style="width: 64px; height: 18px;"><img src="https://backend.nodes.guru/assets/67798227-57e1-4bfd-ad9d-902e6a6372d0" alt="" width="64" height="64" /></td>
-<td style="width: 1279.35px; height: 18px;">
+<td style="width: 1713px; height: 18px;">
 <ul>
 <li>SEI</li>
 </ul>
@@ -152,7 +154,7 @@
 </tr>
 <tr style="height: 18px;">
 <td style="width: 64px; height: 18px;"><img src="https://starkware.co/wp-content/uploads/2021/07/Group-177.svg" alt="" width="64" height="64" /></td>
-<td style="width: 1279.35px; height: 18px;">
+<td style="width: 1713px; height: 18px;">
 <ul>
 <li>Starknet</li>
 </ul>
@@ -160,7 +162,7 @@
 </tr>
 <tr>
 <td style="width: 64px;"><img src="https://avatars.githubusercontent.com/u/112838174?s=200&amp;v=4" alt="Terp" width="64" height="64" /></td>
-<td style="width: 1279.35px;">
+<td style="width: 1713px;">
 <ul>
 <li>TerpNetwork</li>
 </ul>
@@ -168,7 +170,7 @@
 </tr>
 <tr>
 <td style="width: 64px;"><img src="https://ollo.explorers.guru/chains/ollo.png" alt="OLLO" width="64" height="64" /></td>
-<td style="width: 1279.35px;">
+<td style="width: 1713px;">
 <ul>
 <li><a title="OLLO" href="https://ollo.explorers.guru/validator/ollovaloper1twzngmmrq3jfkw2pd498d90kynyefnnxeg7zrc" target="_blank" rel="noopener"><strong>OLLO</strong></a></li>
 </ul>
@@ -176,7 +178,7 @@
 </tr>
 <tr>
 <td style="width: 64px;"><img src="https://okp4.explorers.guru/chains/okp4.png" alt="OKP4" width="64" height="49" /></td>
-<td style="width: 1279.35px;">
+<td style="width: 1713px;">
 <ul>
 <li><a title="OKP4" href="https://okp4.explorers.guru/validator/okp4valoper1twzngmmrq3jfkw2pd498d90kynyefnnxwsj8lp" target="_blank" rel="noopener"><strong>OKP4</strong></a></li>
 </ul>
@@ -185,3 +187,4 @@
 </tbody>
 </table>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+</div>
