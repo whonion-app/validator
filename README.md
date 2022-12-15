@@ -1,5 +1,4 @@
 <div align="center">
-<div style="display: fixed; align-items: flex-start;"><img src="https://github-readme-stats.vercel.app/api?username=whonion&amp;show_icons=true&amp;theme=lightowl" align="top" /> <br /><br /><img src="https://github-readme-streak-stats.herokuapp.com?user=whonion&amp;theme=lightowl&amp;date_format=M%20j%5B%2C%20Y%5D" align="top" /> <br /><br /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whonion&amp;layout=compact&amp;theme=lightowl" align="down" /></div>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://distributedledgerinc.com/wp-content/uploads/2019/04/cosmos_logo.png" /></p>
 <h1><span style="color: #000080;">Project's list where I participate as a validator</span></h1>
 <h2 style="text-align: center;"><span style="color: #0000ff;"><span style="color: #339966;"><strong>ACTIVE TESTNETS</strong></span></span></h2>
@@ -196,3 +195,4 @@
 </table>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 </div>
+/div>
