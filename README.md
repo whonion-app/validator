@@ -30,6 +30,14 @@
 </ul>
 </td>
 </tr>
+<tr>
+<td style="width: 64px;"><img src="https://nolus.explorers.guru/chains/nolus.png" alt="NOLUS" width="64" height="64" /></td>
+<td style="width: 1724px;">
+<ul>
+<li><a href="https://nolus.explorers.guru/validator/nolusvaloper1h42as0j5hqnjzd03s4962ku8t9zzkswj7j73pg" target="_blank" rel="noopener"><strong>NOLUS</strong></a></li>
+</ul>
+</td>
+</tr>
 <tr style="height: 46px;">
 <td style="width: 64px; height: 46px;"><img src="https://backend.nodes.guru/assets/f5b8a9eb-b90c-468f-afef-75d6fbf2e9aa" alt="" width="64" height="64" /></td>
 <td style="width: 1724px; height: 46px;">
