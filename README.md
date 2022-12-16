@@ -9,7 +9,7 @@
 <td style="width: 64px; height: 46px;"><img src="https://backend.nodes.guru/assets/a38b56a3-f77b-403f-8850-97ed3b238809" alt="" width="64" height="64" /></td>
 <td style="width: 1724px; height: 46px;">
 <ul>
-<li><a href="https://celestia.explorers.guru/validator/celestiavaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8aumdxtu5"><strong>CELESTIA</strong></a></li>
+<li><a href="https://celestia.explorers.guru/validator/celestiavaloper15dg59hu59lsdmctcqj766ad2gzsfg6nrmg48sg"><strong>CELESTIA</strong></a></li>
 </ul>
 </td>
 </tr>
