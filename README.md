@@ -3,7 +3,7 @@
 <h1><span style="color: #000080;">Project's list where I participate as a validator</span></h1>
 <h2 style="text-align: center;"><span style="color: #0000ff;"><span style="color: #339966;"><strong>ACTIVE TESTNETS</strong></span></span></h2>
 <p style="color: #2e6c80;"><strong><span style="color: #333333;">COSMOS SDK:</span></strong></p>
-<table style="height: 488px; width: 1795px; border-collapse: collapse; border-style: none;">
+<table style="height: 507px; width: 1795px; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr style="height: 46px;">
 <td style="width: 64px; height: 46px;"><img src="https://backend.nodes.guru/assets/a38b56a3-f77b-403f-8850-97ed3b238809" alt="" width="64" height="64" /></td>
@@ -29,9 +29,9 @@
 </ul>
 </td>
 </tr>
-<tr>
-<td style="width: 64px;"><img src="https://nolus.explorers.guru/chains/nolus.png" alt="NOLUS" width="64" height="64" /></td>
-<td style="width: 1724px;">
+<tr style="height: 68px;">
+<td style="width: 64px; height: 68px;"><img src="https://nolus.explorers.guru/chains/nolus.png" alt="NOLUS" width="64" height="64" /></td>
+<td style="width: 1724px; height: 68px;">
 <ul>
 <li><a href="https://nolus.explorers.guru/validator/nolusvaloper1h42as0j5hqnjzd03s4962ku8t9zzkswj7j73pg" target="_blank" rel="noopener"><strong>NOLUS</strong></a></li>
 </ul>
@@ -41,15 +41,7 @@
 <td style="width: 64px; height: 46px;"><img src="https://backend.nodes.guru/assets/f5b8a9eb-b90c-468f-afef-75d6fbf2e9aa" alt="" width="64" height="64" /></td>
 <td style="width: 1724px; height: 46px;">
 <ul>
-<li><a href="https://dws.explorers.guru/validator/dewebvaloper10ehfeamddx9atyq9kll83c9szl522ywfg8jf9l"><strong>DWS</strong></a></li>
-</ul>
-</td>
-</tr>
-<tr style="height: 46px;">
-<td style="width: 64px; height: 46px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://testnet.ping.pub/logos/nois.svg" alt="" width="64" height="64" /></td>
-<td style="width: 1724px; height: 46px;">
-<ul>
-<li><a href="https://testnet.ping.pub/nois/staking/noisvaloper1v5xayfadhn3emtptsyc9nu7zyuyyze9smdg3h0"><strong>NOIS</strong></a></li>
+<li><a href="https://dws.explorers.guru/validator/dewebvaloper10ehfeamddx9atyq9kll83c9szl522ywfg8jf9l"><strong>DWS </strong></a><strong>(ENDED)</strong></li>
 </ul>
 </td>
 </tr>
@@ -57,7 +49,7 @@
 <td style="width: 64px; height: 68px;"><img src="https://avatars.githubusercontent.com/u/102963696?s=200&amp;v=4" alt="" width="64" height="64" /></td>
 <td style="width: 1724px; height: 68px;">
 <ul>
-<li><a title="Empower" href="https://empower.explorers.guru/validator/empowervaloper1a9nlpz0cer2cfaqy5z85rvprkxyac4rlsmst0j"><strong>Empowerchain</strong></a></li>
+<li><a title="Empower" href="https://empower.explorers.guru/validator/empowervaloper1a9nlpz0cer2cfaqy5z85rvprkxyac4rlsmst0j"><strong>Empowerchain </strong></a><strong>(ENDED)</strong></li>
 </ul>
 </td>
 </tr>
@@ -69,11 +61,11 @@
 </ul>
 </td>
 </tr>
-<tr style="height: 67px;">
-<td style="width: 64px; height: 67px;"><img src="https://gitopia.explorers.guru/chains/gitopia.png" alt="Gitopia" width="64" height="64" /></td>
-<td style="width: 1724px; height: 67px;">
+<tr style="height: 18px;">
+<td style="width: 64px; height: 18px;"><img src="https://explorer.humans.zone/hIcon.svg" alt="" width="32" height="47" /></td>
+<td style="width: 1724px; height: 18px;">
 <ul>
-<li><a href="https://gitopia.explorers.guru/validator/gitopiavaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8aue6k9l8" target="_blank" rel="noopener"><strong>GITOPIA</strong></a></li>
+<li><a href="https://explorer.humans.zone/humans-testnet/staking/humanvaloper10ehfeamddx9atyq9kll83c9szl522ywftv22r4" target="_blank" rel="noopener"><strong>HUMANS.AI</strong></a></li>
 </ul>
 </td>
 </tr>
@@ -191,8 +183,23 @@
 </ul>
 </td>
 </tr>
+<tr>
+<td style="width: 64px;"><img src="https://gitopia.explorers.guru/chains/gitopia.png" alt="GITOPIA" width="64" height="64" /></td>
+<td style="width: 1713px;">
+<ul>
+<li><a href="https://gitopia.explorers.guru/validator/gitopiavaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8aue6k9l8" target="_blank" rel="noopener"><strong>GITOPIA</strong></a></li>
+</ul>
+<strong><br /></strong></td>
+</tr>
+<tr>
+<td style="width: 64px;"><img src="https://testnet.ping.pub/logos/nois.svg" alt="NOIS" width="64" height="64" /></td>
+<td style="width: 1713px;">
+<ul>
+<li><a href="https://testnet.ping.pub/nois/staking/noisvaloper1v5xayfadhn3emtptsyc9nu7zyuyyze9smdg3h0"><strong>NOIS</strong></a></li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-</div>
 </div>
