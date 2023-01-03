@@ -78,7 +78,7 @@
 <td style="width: 121.75px;"><img src="https://icodrops.com/wp-content/uploads/2021/11/MassaLabs_logo.jpeg" alt="MASSA" width="64" height="64" /></td>
 <td style="width: 1662.25px;">
 <ul>
-<li><a title="MASSA" href="https://massa.net/" target="_blank"><strong>MASSA</strong></a></li>
+<li><a title="MASSA" href="https://massa.net/" target="_blank"><strong>MASSA </strong></a><strong>(ENDED EP. 17)</strong></li>
 </ul>
 </td>
 </tr>
