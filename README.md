@@ -37,6 +37,14 @@
 </ul>
 </td>
 </tr>
+<tr>
+<td style="width: 64px;"><img src="https://lava.explorers.guru/chains/lava.svg" alt="" width="64" height="64" /></td>
+<td style="width: 1724px;">
+<ul>
+<li><a title="https://lava.explorers.guru/validator/lava@valoper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8aurfeq99" href="https://nolus.explorers.guru/validator/nolusvaloper1h42as0j5hqnjzd03s4962ku8t9zzkswj7j73pg" target="_blank" rel="noopener"><strong>LAVA</strong></a></li>
+</ul>
+</td>
+</tr>
 <tr style="height: 46px;">
 <td style="width: 64px; height: 46px;"><img src="https://backend.nodes.guru/assets/f5b8a9eb-b90c-468f-afef-75d6fbf2e9aa" alt="" width="64" height="64" /></td>
 <td style="width: 1724px; height: 46px;">
@@ -78,7 +86,7 @@
 <td style="width: 121.75px;"><img src="https://icodrops.com/wp-content/uploads/2021/11/MassaLabs_logo.jpeg" alt="MASSA" width="64" height="64" /></td>
 <td style="width: 1662.25px;">
 <ul>
-<li><a title="MASSA" href="https://massa.net/" target="_blank"><strong>MASSA </strong></a><strong>(ENDED EP. 17)</strong></li>
+<li><a title="MASSA" href="https://massa.net/" target="_blank"><strong>MASSA</strong></a></li>
 </ul>
 </td>
 </tr>
