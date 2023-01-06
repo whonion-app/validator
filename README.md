@@ -1,9 +1,9 @@
 <div align="center">
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://distributedledgerinc.com/wp-content/uploads/2019/04/cosmos_logo.png" /></p>
-<h1><span style="color: #000080;">Project's list where I participate as a validator</span></h1>
+<h1><span style="color: #000080;">Project's list where our team participate as a validator</span></h1>
 <h2 style="text-align: center;"><span style="color: #0000ff;"><span style="color: #339966;"><strong>ACTIVE TESTNETS</strong></span></span></h2>
 <p style="color: #2e6c80;"><strong><span style="color: #333333;">COSMOS SDK:</span></strong></p>
-<table style="height: 507px; width: 1795px; border-collapse: collapse; border-style: none;">
+<table style="height: 333px; width: 1795px; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr style="height: 46px;">
 <td style="width: 64px; height: 46px;"><img src="https://backend.nodes.guru/assets/a38b56a3-f77b-403f-8850-97ed3b238809" alt="" width="64" height="64" /></td>
@@ -37,27 +37,11 @@
 </ul>
 </td>
 </tr>
-<tr>
-<td style="width: 64px;"><img src="https://lava.explorers.guru/chains/lava.svg" alt="" width="64" height="64" /></td>
-<td style="width: 1724px;">
+<tr style="height: 53px;">
+<td style="width: 64px; height: 53px;"><img src="https://lava.explorers.guru/chains/lava.svg" alt="" width="64" height="64" /></td>
+<td style="width: 1724px; height: 53px;">
 <ul>
 <li><a title="https://lava.explorers.guru/validator/lava@valoper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8aurfeq99" href="https://nolus.explorers.guru/validator/nolusvaloper1h42as0j5hqnjzd03s4962ku8t9zzkswj7j73pg" target="_blank" rel="noopener"><strong>LAVA</strong></a></li>
-</ul>
-</td>
-</tr>
-<tr style="height: 46px;">
-<td style="width: 64px; height: 46px;"><img src="https://backend.nodes.guru/assets/f5b8a9eb-b90c-468f-afef-75d6fbf2e9aa" alt="" width="64" height="64" /></td>
-<td style="width: 1724px; height: 46px;">
-<ul>
-<li><a href="https://dws.explorers.guru/validator/dewebvaloper10ehfeamddx9atyq9kll83c9szl522ywfg8jf9l"><strong>DWS </strong></a><strong>(ENDED)</strong></li>
-</ul>
-</td>
-</tr>
-<tr style="height: 68px;">
-<td style="width: 64px; height: 68px;"><img src="https://avatars.githubusercontent.com/u/102963696?s=200&amp;v=4" alt="" width="64" height="64" /></td>
-<td style="width: 1724px; height: 68px;">
-<ul>
-<li><a title="Empower" href="https://empower.explorers.guru/validator/empowervaloper1a9nlpz0cer2cfaqy5z85rvprkxyac4rlsmst0j"><strong>Empowerchain </strong></a><strong>(ENDED)</strong></li>
 </ul>
 </td>
 </tr>
@@ -204,6 +188,22 @@
 <td style="width: 1713px;">
 <ul>
 <li><a href="https://testnet.ping.pub/nois/staking/noisvaloper1v5xayfadhn3emtptsyc9nu7zyuyyze9smdg3h0"><strong>NOIS</strong></a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 64px;"><img src="https://avatars.githubusercontent.com/u/102963696?s=200&amp;v=4" alt="" width="64" height="64" /></td>
+<td style="width: 1713px;">
+<ul>
+<li><a title="Empower" href="https://empower.explorers.guru/validator/empowervaloper1a9nlpz0cer2cfaqy5z85rvprkxyac4rlsmst0j"><strong>Empowerchain </strong></a><strong>(ENDED)</strong></li>
+</ul>
+<strong><br /></strong></td>
+</tr>
+<tr>
+<td style="width: 64px;"><img src="https://backend.nodes.guru/assets/f5b8a9eb-b90c-468f-afef-75d6fbf2e9aa" alt="" width="64" height="64" /></td>
+<td style="width: 1713px;">
+<ul>
+<li><a href="https://dws.explorers.guru/validator/dewebvaloper10ehfeamddx9atyq9kll83c9szl522ywfg8jf9l"><strong>DWS </strong></a><strong>(ENDED)</strong></li>
 </ul>
 </td>
 </tr>
