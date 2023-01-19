@@ -45,6 +45,14 @@
 </ul>
 </td>
 </tr>
+<tr>
+<td style="width: 64px;"><img src="https://mars.explorers.guru/chains/mars.png" alt="MARS" width="64" height="64" /></td>
+<td style="width: 1724px;">
+<ul>
+<li><a title="https://lava.explorers.guru/validator/lava@valoper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8aurfeq99" href="https://mars.explorers.guru/validator/marsvaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8auxfswpp" target="_blank" rel="noopener"><strong>MARS Protocol</strong></a></li>
+</ul>
+</td>
+</tr>
 <tr style="height: 62px;">
 <td style="width: 64px; height: 62px;"><img src="https://2061232594-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2ufmW7exCclo14ABKCcm%2Fuploads%2FoC43RLB9pbHnkLuk4Imd%2Fsource-logo-S-only.svg?alt=media&amp;token=56741963-b3ff-47e6-a4a2-cbf1ebf69187" alt="Source Protocol" width="64" height="58" /></td>
 <td style="width: 1724px; height: 62px;">
