@@ -45,14 +45,6 @@
 </ul>
 </td>
 </tr>
-<tr>
-<td style="width: 64px;"><img src="https://mars.explorers.guru/chains/mars.png" alt="MARS" width="64" height="64" /></td>
-<td style="width: 1724px;">
-<ul>
-<li><a title="https://lava.explorers.guru/validator/lava@valoper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8aurfeq99" href="https://mars.explorers.guru/validator/marsvaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8auxfswpp" target="_blank" rel="noopener"><strong>MARS Protocol</strong></a></li>
-</ul>
-</td>
-</tr>
 <tr style="height: 62px;">
 <td style="width: 64px; height: 62px;"><img src="https://2061232594-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2ufmW7exCclo14ABKCcm%2Fuploads%2FoC43RLB9pbHnkLuk4Imd%2Fsource-logo-S-only.svg?alt=media&amp;token=56741963-b3ff-47e6-a4a2-cbf1ebf69187" alt="Source Protocol" width="64" height="58" /></td>
 <td style="width: 1724px; height: 62px;">
@@ -75,10 +67,10 @@
 <table style="height: 58px; width: 1791px; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr>
-<td style="width: 121.75px;"><img src="https://icodrops.com/wp-content/uploads/2021/11/MassaLabs_logo.jpeg" alt="MASSA" width="64" height="64" /></td>
-<td style="width: 1662.25px;">
+<td style="width: 65.0312px;"><img src="https://icodrops.com/wp-content/uploads/2021/11/MassaLabs_logo.jpeg" alt="MASSA" width="64" height="64" /></td>
+<td style="width: 1718.97px;">
 <ul>
-<li><a title="MASSA" href="https://massa.net/" target="_blank"><strong>MASSA</strong></a></li>
+<li><a title="MASSA" href="https://massa.net/" target="_blank"><strong>MASSA</strong></a><strong>(ENDED EP.18)</strong></li>
 </ul>
 </td>
 </tr>
@@ -88,7 +80,7 @@
 <table style="height: 219px; width: 1784px; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr style="height: 46px;">
-<td style="width: 64px; height: 46px;"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcryptocurrencyjobs.co%2Fstartups%2Fassets%2Flogos%2Faptos.12cffdf92f7fb4c2ee3e582f92e09e6d03d3cbff3bd7a4a9ce3fd0da3839bb4e.jpeg&amp;f=1&amp;nofb=1&amp;ipt=fc21bd4ee8e1f9c0edc476fbd2043dae863bbd76bf3f6105a031234c54648b4a&amp;ipo=images" alt="" width="64" height="64" /></td>
+<td style="width: 64px; height: 46px;"><img src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcoincheckup.com%2Fblog%2Fwp-content%2Fuploads%2Faptos_logo_white.png&f=1&nofb=1&ipt=c1d1e8416c61a0492212487e126436f4550da135517e9ae4a323d20c81c4bb02&ipo=images" alt="" width="64" height="64" /></td>
 <td style="width: 1713px; height: 46px;">
 <ul>
 <li>APTOS AIT II / AIT III&nbsp;</li>
@@ -214,6 +206,14 @@
 <li><a href="https://dws.explorers.guru/validator/dewebvaloper10ehfeamddx9atyq9kll83c9szl522ywfg8jf9l"><strong>DWS </strong></a><strong>(ENDED)</strong></li>
 </ul>
 </td>
+</tr>
+<tr>
+<td style="width: 64px;"><img src="https://mars.explorers.guru/chains/mars.png" alt="MARS" width="64" height="64" /></td>
+<td style="width: 1713px;">
+<ul>
+<li><a title="https://lava.explorers.guru/validator/lava@valoper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8aurfeq99" href="https://mars.explorers.guru/validator/marsvaloper1xm6xlh80jxaxsar0ga7r2ep0j4pdy8auxfswpp" target="_blank" rel="noopener"><strong>MARS Protocol</strong></a></li>
+</ul>
+<strong><br /></strong></td>
 </tr>
 </tbody>
 </table>
